@@ -1,5 +1,5 @@
 id,name,aisle,department,price
-1,Chocolate Sandwich Cookies,cookies cakes,snacks,3.5
+1,Chocolate Sandwich Cookies,cookie cakes,snacks,3.5
 2,All-Seasons Salt,spices seasonings,pantry,4.99
 3,Robust Golden Unsweetened Oolong Tea,tea,beverages,2.49
 4,Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce,frozen meals,frozen,6.99
@@ -20,4 +20,9 @@ id,name,aisle,department,price
 19,Gluten Free Quinoa Three Cheese & Mushroom Blend,grains rice dried goods,dry goods pasta,3.99
 20,Pomegranate Cranberry & Aloe Vera Enrich Drink,juice nectars,beverages,4.25
 100,New Item,snacks,snacks,1.99
-22,asdf,asdf,asdf,1.99
+23,2,,,
+24,exit,exit,exit,exit
+25,1,1,1,1
+25,22,33,3,3
+26,,,,
+27,new ,new aisle,new dept,1.22
